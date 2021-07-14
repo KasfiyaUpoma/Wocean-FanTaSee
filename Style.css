@@ -420,21 +420,17 @@ span{
         opacity: 0;
     }
 }
-.football{
-    height: 70px;
-    width: 70px;
-    animation:bounce 5s linear infinite;  
-}
-@keyframes bounce {
+
+/* @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {transform: translateY(0);} 
     40% {transform: translateY(-30px);} 
     60% {transform: translateY(-15px);} 
- } 
+ }  */
 
 .imgcontainer{
     position:absolute ;
 }
 .imgcontainer img{
     height: 100%;
-    max-height: 580px;
+    max-height: 597px;
 }
