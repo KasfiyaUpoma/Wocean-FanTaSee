@@ -1,3 +1,4 @@
+/* Most situable for redmi note 10 */
 nav>ul>li{
     font-size: .9rem;
     height: 30px;
@@ -33,6 +34,9 @@ h2{
 .football img{
     height: 52px;
     width: 52px;
+}
+.wrapper{
+    overflow-y: hidden;
 }
 
 
