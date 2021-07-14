@@ -40,8 +40,8 @@ h2{
     animation: bounce 1.6s linear infinite;
 }
 .football img{
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
 }
 .wrapper{
     overflow: hidden;
