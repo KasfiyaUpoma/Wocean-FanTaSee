@@ -135,7 +135,6 @@ body{
 .players {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin-right: 0;
     grid-gap: 25px; 
     width: 70%;
     margin-left: auto;
