@@ -1,6 +1,6 @@
 /* Most situable for redmi note 10 */
 nav>ul>li{
-    font-size: .9rem;
+    font-size: 1rem;
     height: 30px;
     line-height: 30px;
     letter-spacing: 0px;
@@ -29,7 +29,7 @@ h2{
 }
 .football{
     position: absolute;
-    top: 72%;
+    top: 82%;
     left: 56%;
     z-index: -3;
     animation: bounce 1.6s linear infinite;
