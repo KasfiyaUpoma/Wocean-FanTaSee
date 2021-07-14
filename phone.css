@@ -24,11 +24,13 @@ h2{
     width: 200px;
     height: 200px;
     margin-top: 230px;
+    margin-bottom: 0px;
 }
 .imgcontainer img{
     margin-top: 230px;
+    margin-bottom: 0px;
     height: 100%;
-    max-height: 520px;
+    max-height: 500px;
 }
 .football{
     position: absolute;
