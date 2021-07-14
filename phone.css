@@ -25,7 +25,7 @@ h2{
 .imgcontainer img{
     margin-top: 190px;
     height: 100%;
-    max-height: 520px;
+    max-height: 500px;
 }
 .football{
     position: absolute;
@@ -33,6 +33,10 @@ h2{
     left: 56%;
     z-index: -3;
     animation: bounce 1.6s linear infinite;
+}
+.football img{
+    height: 40px;
+    width: 40px;
 }
 .wrapper{
     overflow: hidden;
