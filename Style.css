@@ -2,7 +2,6 @@ body{
     padding: 0;
     margin: 0;
     font-family: "Exo","Sans-Serif";
-    overflow:hidden;
 }
 /* Navbar */
 .navbar{
@@ -47,7 +46,7 @@ nav>ul{
     color: #fff;
 }
 nav>ul>li{
-    position: relative;
+    position: sticky;
     cursor: pointer;
     font-size: 1.5rem;
     font-weight: bold;

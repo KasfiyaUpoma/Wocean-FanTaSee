@@ -1,12 +1,12 @@
 /* Most situable for redmi note 10 */
 nav>ul>li{
-    font-size: 1rem;
+    font-size: .8rem;
     height: 30px;
     line-height: 30px;
     letter-spacing: 0px;
 }
 nav li a:-webkit-any-link{
-    padding: 0px 16px;
+    padding: 0px 10px;
 }
 .navbar{
     height: 38px;
@@ -20,11 +20,11 @@ h2{
 .box{
     width: 200px;
     height: 200px;
-    margin-top: 60px;
+    margin-top: 160px;
     margin-bottom: 0px;
 }
 .imgcontainer img{
-    margin-top: 60px;
+    margin-top: 170px;
     margin-bottom: 0px;
     height: 100%;
     max-height: 500px;
