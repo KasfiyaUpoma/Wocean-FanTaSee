@@ -12,10 +12,10 @@ nav li a:-webkit-any-link{
     padding: 0px 16px;
 }
 .navbar{
-    height: 36px;
+    height: 38px;
 }
 .dropdown li a:-webkit-any-link{
-    padding: 0px;
+    padding: 0px 3px;
 }
 h2{
     font-size: 36px;
