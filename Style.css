@@ -71,6 +71,7 @@ nav>ul>li{
     display: none;
     margin: 5px 0px;
     text-align: center;
+    overflow: hidden;
 }
 .dropdown li:hover{
     background: wheat;
