@@ -15,10 +15,15 @@ nav li a:-webkit-any-link{
     padding: 0px 3px;
 }
 h2{
-    font-size: 18px;
-    padding-bottom: 20%;
+    font-size: 36px;
+    padding-bottom: 80%;
 }
-
+p{
+    top: 80%;
+    left: 50%;
+    padding-bottom: 50%;
+    font-size: 12px;
+}
 .box{
     width: 200px;
     height: 200px;
