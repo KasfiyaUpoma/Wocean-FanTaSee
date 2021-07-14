@@ -1,6 +1,6 @@
 /* Most situable for redmi note 10 */
 body{
-    overflow-y: hidden;
+    overflow-block: hidden;
 }
 nav>ul>li{
     font-size: 1rem;
