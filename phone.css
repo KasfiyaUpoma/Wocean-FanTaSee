@@ -1,6 +1,6 @@
 /* Most situable for redmi note 10 */
 nav>ul>li{
-    font-size: 1rem;
+    font-size: 1.1rem;
     height: 30px;
     line-height: 30px;
     letter-spacing: 0px;
@@ -20,16 +20,16 @@ h2{
 .box{
     width: 200px;
     height: 200px;
-    margin-top: 110px;
+    margin-top: 80px;
 }
 .imgcontainer img{
-    margin-top: 120px;
+    margin-top: 70px;
     height: 100%;
     max-height: 560px;
 }
 .football{
     position: absolute;
-    top: 80%;
+    top: 90%;
     left: 56%;
     z-index: -3;
     animation: bounce 1.6s linear infinite;
