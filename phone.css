@@ -1,6 +1,6 @@
 /* Most situable for redmi note 10 */
 body{
-    overflow-x: hidden;
+    overflow: hidden;
 }
 nav>ul>li{
     font-size: 1rem;
@@ -28,7 +28,7 @@ h2{
 .imgcontainer img{
     margin-top: 220px;
     height: 100%;
-    max-height: 500px;
+    max-height: 520px;
 }
 .football{
     position: absolute;
