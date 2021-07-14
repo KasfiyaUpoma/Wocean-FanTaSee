@@ -2,11 +2,9 @@ body{
     padding: 0;
     margin: 0;
     font-family: "Exo","Sans-Serif";
+    overflow:hidden;
 }
 /* Navbar */
-.smallscreen{
-    display: none;
-}
 .navbar{
         display:flex;
         justify-content:center;
@@ -423,15 +421,9 @@ span{
     }
 }
 .football{
-    position: absolute;
-    top: 92%;
-    left: 58%;
-    z-index: -3;
-    animation: bounce 1.6s linear infinite;
-}
-.football img{
-    height: 50px;
-    width: 50px;
+    height: 70px;
+    width: 70px;
+    animation:bounce 5s linear infinite;  
 }
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {transform: translateY(0);} 
@@ -444,4 +436,5 @@ span{
 }
 .imgcontainer img{
     height: 100%;
+    max-height: 580px;
 }
