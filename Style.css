@@ -133,7 +133,6 @@ nav li:hover > .dropdown li:nth-child(4){
     height: 100%;
     z-index: -1;
     background: linear-gradient(90deg, rgb(11, 27, 173)0%, rgb(11, 25, 230)25%, rgba(0,212,255,1)100%);
-    overflow: hidden;
 }
 /* Heading */
 h2{
