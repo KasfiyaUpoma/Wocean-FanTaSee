@@ -1,6 +1,6 @@
 /* Most situable for redmi note 10 */
 body{
-    overflow-block: hidden;
+    overflow-x: hidden;
 }
 nav>ul>li{
     font-size: 1rem;
@@ -23,10 +23,10 @@ h2{
 .box{
     width: 200px;
     height: 200px;
-    margin-top: 200px;
+    margin-top: 230px;
 }
 .imgcontainer img{
-    margin-top: 190px;
+    margin-top: 220px;
     height: 100%;
     max-height: 500px;
 }
