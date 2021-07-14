@@ -1,4 +1,7 @@
 /* Most situable for redmi note 10 */
+body{
+    overflow: hidden;
+}
 nav>ul>li{
     font-size: 1rem;
     height: 30px;
@@ -35,8 +38,8 @@ h2{
     animation: bounce 1.6s linear infinite;
 }
 .football img{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
 }
 .wrapper{
     overflow: hidden;
