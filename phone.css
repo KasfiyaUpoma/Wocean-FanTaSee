@@ -28,11 +28,8 @@ h2{
     max-height: 550px;
 }
 .football{
-    position: absolute;
     top: 70%;
     left: 58%;
-    z-index: -3;
-    animation: bounce 1.6s linear infinite;
 }
 
 
