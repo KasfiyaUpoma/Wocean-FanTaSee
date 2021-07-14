@@ -13,3 +13,6 @@ nav li a:-webkit-any-link{
 .dropdown li a:-webkit-any-link{
     padding: 0px 3px;
 }
+.players {
+    grid-template-columns: repeat(2, 1fr);
+}
