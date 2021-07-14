@@ -29,7 +29,7 @@ h2{
 }
 .football{
     position: absolute;
-    top: 65%;
+    top: 55%;
     left: 58%;
     z-index: -3;
     animation: bounce 1.6s linear infinite;
