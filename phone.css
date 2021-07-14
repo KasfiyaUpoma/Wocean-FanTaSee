@@ -20,16 +20,16 @@ h2{
 .box{
     width: 200px;
     height: 200px;
-    margin-top: 190px;
+    margin-top: 150px;
 }
 .imgcontainer img{
-    margin-top: 180px;
+    margin-top: 140px;
     height: 100%;
     max-height: 560px;
 }
 .football{
     position: absolute;
-    top: 68%;
+    top: 72%;
     left: 56%;
     z-index: -3;
     animation: bounce 1.6s linear infinite;
